@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AvisosDemo</string>
+    <string name="btn_toast_corto">Toast Corto</string>
+    <string name="btn_toast_largo">Toast Largo</string>
+    <string name="btn_saludo">Saludar</string>
+    <string name="hint_nombre">Introduce tu nombre</string>
+    <string name="toast_short_text">Este es un Toast corto (LENGTH_SHORT)</string>
+    <string name="toast_largo_text">Este es un Toast largo definido en strings.xml (LENGTH_LONG)</string>
+    <string name="hola_nombre">Hola, %1$s</string>
+</resources>
